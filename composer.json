@@ -1,9 +1,8 @@
 {
-  "name": "riz/codility-test",
+  "name": "riz/php-template",
   "authors": [
     {
-      "name": "Rizart Dokollari",
-      "email": "r.dokollari@gmail.com"
+      "name": "Rizart Dokollari"
     }
   ],
   "require-dev": {
