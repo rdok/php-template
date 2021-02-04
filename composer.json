@@ -17,5 +17,8 @@
     "psr-4": {
       "Acme\\": "src/"
     }
+  },
+  "scripts": {
+    "phpunit": "vendor/bin/phpunit"
   }
 }
