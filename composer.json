@@ -1,5 +1,6 @@
 {
-  "name": "riz/php-template",
+  "description": "Template with configuration, assertions, and basic mock for phpunit.",
+  "name": "rdok/php-template",
   "authors": [
     {
       "name": "Rizart Dokollari"
